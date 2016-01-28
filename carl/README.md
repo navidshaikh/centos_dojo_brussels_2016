@@ -23,4 +23,4 @@ basic "hello world" level functionality.
     Why busybox?  It is small and we don't want to stress out on
     conference wifi.
 
-4. `$ docker run --rm busybox echo "hello Dojo"`
+4. `$ docker run --rm busybox echo "Hello Dojo"`
