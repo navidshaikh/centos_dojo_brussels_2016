@@ -20,7 +20,7 @@ that can leverage the capabilities and provide smooth user experience
 for containerized development. Learn how to use it, how we built it,
 and how you can make it better.
 
-## [Slides] (slides.pdf)
+## [Slides] (adb_centos_dojo_brussels_2016.pdf)
 
 ## Demo
 
