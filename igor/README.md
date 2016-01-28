@@ -13,11 +13,15 @@ Demonstrate [Eclipse Docker Tooling](http://www.eclipse.org/community/eclipse_ne
 
         vagrant plugin install vagrant-adbinfo
 
-2. Run the plugin to get environment variables and certificates
+2. Run the plugin to see the environment variables and certificates
+
+        $ vagrant adbinfo
+
+3. Run the plugin to get environment variables and certificates
 
         $ eval "$(vagrant adbinfo)"
 
-3. Run Eclipse from the same shell as above
+4. Run Eclipse from the same shell as above
 
     1. In **Docker Explore** view, click **Connection Wizard**
 
