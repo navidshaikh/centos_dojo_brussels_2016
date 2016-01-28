@@ -32,4 +32,4 @@ Demonstrate a developer workstation based docker cli talking to the ADB.
 
     See busybox
 
-6. `docker run --rm busybox echo "Hello Dojo"
+6. `docker run --rm busybox echo "Hello Dojo"`
