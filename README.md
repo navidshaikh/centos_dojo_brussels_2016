@@ -1,5 +1,7 @@
 # [Atomic Developer Bundle] (https://github.com/projectatomic/adb-atomic-developer-bundle/) - Containerized development made easy
+
 Event: [CentOS Dojo Brussels 2016](https://wiki.centos.org/Events/Dojo/Brussels2016)
+
 Speakers: 
 - [Brian Exelbierd] (https://twitter.com/bexelbie)
 - [Navid Shaikh] (https://twitter.com/swordphilic)
